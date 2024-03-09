@@ -1,0 +1,1 @@
+Our proposal aims to develop an effective method for diagnosing diabetic retinopathy from retinal fundus images. This approach involves using SVM and KNN algorithms for classification. Additionally, you plan to leverage deep learning techniques, such as grad cam scores, to visualize the areas of interest identified by the model.
